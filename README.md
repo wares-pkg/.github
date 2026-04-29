@@ -1,0 +1,2 @@
+# .github
+wares-pkg README
