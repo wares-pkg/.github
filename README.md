@@ -1,2 +1,3 @@
-# .github
-wares-pkg README
+# wares
+
+*wares* is a distro-agnostic AppImage/binary-based package manager!
